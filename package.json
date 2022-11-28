@@ -1,0 +1,19 @@
+{
+  "name": "av-api",
+  "version": "1.0.0",
+  "description": "avengers API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MASmudunkotuwa/av-api.git"
+  },
+  "author": "Amila S.Mudunkotuwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MASmudunkotuwa/av-api/issues"
+  },
+  "homepage": "https://github.com/MASmudunkotuwa/av-api#readme"
+}
